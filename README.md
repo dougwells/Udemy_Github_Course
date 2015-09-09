@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-example
+example 1
 
 ## Purpose
 
@@ -14,3 +14,4 @@ deployment text
 
 ## How to Contribute
 added contribute text
+
