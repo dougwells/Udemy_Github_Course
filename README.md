@@ -13,5 +13,5 @@ Sample website with plenty of files for demos
 deployment text
 
 ## How to Contribute
-added contribute text
+added contribute text, example 2
 
