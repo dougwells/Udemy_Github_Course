@@ -15,5 +15,6 @@ deployment text
 ## How to Contribute
 added contribute text, example 2
 
-to staging
+to staging2
+to working directory
 
