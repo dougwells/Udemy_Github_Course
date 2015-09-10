@@ -17,5 +17,5 @@ deployment text
 Please fork repository and then issue pull request
 
 ### Copyright
-Doug Wells
+Doug Wells.  All rights reserved.
 
