@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing example.
+Adding a line for rebasing example.  More features from newbranch (myfeature) to show how rebasing helps eliminate conflicts.
 
 ## Introduction
 example 1
