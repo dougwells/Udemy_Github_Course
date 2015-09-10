@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    doug	doug@test.com	@doug
 
 # THANKS
 
