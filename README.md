@@ -13,10 +13,7 @@ Sample website with plenty of files for demos
 deployment text
 
 ## How to Contribute
-added contribute text, example 2
-
-to staging2
-to working directory
+Please fork repository and then issue pull request
 
 ### Copyright
 Doug Wells
