@@ -18,3 +18,6 @@ added contribute text, example 2
 to staging2
 to working directory
 
+### Copyright
+Doug Wells
+
