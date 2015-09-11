@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 Adding a line for rebasing example.  Updating emergency fix after stash.
 
 ## Introduction
-example 1
+Multi Stash example.  Mod #3.
 
 ## Purpose
 
