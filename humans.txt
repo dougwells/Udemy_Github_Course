@@ -9,6 +9,7 @@
 
    Git Tracked File.  Stash, Apply then drop
    Second change.  After stash and apply
+   Third change.  Hmmmmm.
 
 # TECHNOLOGY COLOPHON
 
